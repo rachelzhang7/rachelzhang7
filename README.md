@@ -13,4 +13,4 @@ Currently building and experimenting with AI products, agents, and tools – goi
 AI Products · AdTech · Creative AI · Commerce · Agents · Product Growth
 
 ### Find me
-[Linkedin](https://www.linkedin.com/in/rachel-zhang/)· Personal site coming soon
+[Linkedin](https://www.linkedin.com/in/rachel-zhang/)· [Personal site](https://rachelzhang7.github.io/)
